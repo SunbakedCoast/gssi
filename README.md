@@ -1,16 +1,10 @@
 # gssi
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+NOTES:
+- The app is structured using the BLoC 
+- I have sucessfully fetched the images or SVGs but SVG files are failed to render apparently the flutter framework still has problems rendering SVGs see: https://github.com/flutter/flutter/issues/15501?source=post_page---------------------------
+- I have successfully fetched all data provided.
+- Names are searchable.
+- Me and my family are going for a vacation so the development of this exam was rushed and finished it within 4 1/2 hours I started at 9am.
